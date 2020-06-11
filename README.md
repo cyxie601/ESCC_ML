@@ -20,6 +20,7 @@ All requirements are given in ```requirements.txt```
 - SimpleITK 1.2.0
 - Keras 2.2.4
 - scikit-learn 0.21.1
+- pyradiomics==2.1.2
 
 #### R requirements
 - psych 1.8.12
